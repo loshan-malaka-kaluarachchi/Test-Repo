@@ -1,4 +1,7 @@
+import prompt
+
 count = 1
+prompt.greet('John')
 while True:
   print('Hello World!')
   count += 1
